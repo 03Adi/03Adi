@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Prakash Pandey</h1>
+<h1 align="center">Hi guy's 👋, I'm Aditya Prakash Pandey</h1>
 <h3 align="center">Java Full stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
@@ -6,6 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=03adi" alt="03adi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p>
+
+- 🔭 I’m currently working on [Meal-Mate](https://github.com/03Adi/Meal-Mate)
+
+- 👨‍💻 All of my projects are available at [https://03adi.github.io/Personal-Portfolio/](https://03adi.github.io/Personal-Portfolio/)
+
+- 📫 How to reach me **adityapandey03012003@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vGFTs01WB5ssJCLAYJTX9VACwppo2ytT/view](https://drive.google.com/file/d/1vGFTs01WB5ssJCLAYJTX9VACwppo2ytT/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
