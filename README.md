@@ -5,10 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=03adi" alt="03adi" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/adityaprak74416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaprak74416" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-prakash-pandey-a5b14621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-prakash-pandey-a5b14621b/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_.aditya09._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.aditya09._/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/adityaprakashpandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adityaprakashpandey/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
