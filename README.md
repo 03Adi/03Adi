@@ -1,7 +1,7 @@
 <h1 align="center">Hi guy's 👋, I'm Aditya Prakash Pandey</h1>
-<div align="center"> <img src="D:\images.png"> </div>
+<div align="center"> <img src="images.png"> </div>
 
-<h3 align="center">A passionate Java Full stack Developer</h3>
+<h3 align="center">A passionate Full stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=03adi&" alt="03adi" /></p>
+
