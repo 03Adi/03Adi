@@ -1,7 +1,6 @@
 <h1 align="center">Hi guy's 👋, I'm Aditya Prakash Pandey</h1>
 <div align="center"> <img src="https://drive.google.com/file/d/1xU9WGP8dtghU0IeRu8aVIQoUoNr2We05/view?usp=sharing"> </div>
 
-
 <h3 align="center">A passionate Full stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
