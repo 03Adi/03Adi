@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p>
 
-- 🔭 I’m currently working on -- **Shopify plugin development using PHP**
+- 🔭 I’m currently working on -- **Shopify plugin's development**
 
 - 🌱 I’m currently learning -- **PHP , Shopify**
 
