@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on -- **Shopify plugin development using PHP**
 
-- 🌱 I’m currently learning -- **PHP, Shopify**
+- 🌱 I’m currently learning -- **PHP , Shopify**
 
 - 👨‍💻 All of my projects are available at -- [https://03adi.github.io/Personal-Portfolio/](https://03adi.github.io/Personal-Portfolio/)
 
