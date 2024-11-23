@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adityapandey03012003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view)
+- 📄 Updated Resume -- [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
