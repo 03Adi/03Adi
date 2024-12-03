@@ -1,7 +1,7 @@
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi Dev's 👋, I'm Aditya Prakash Pandey</h1>
 <h3 align="center">A Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
-<img align="right" alt="Coding" width="380" src="https://octodex.github.com/images/NUX_Octodex.gif">
+<img align="right" alt="Coding" width="380" src="https://octodex.github.com/images/puddle_jumper_octodex.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
 
