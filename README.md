@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=03Adi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=03Adi&theme=dark&type=png)](https://git.io/streak-stats)
