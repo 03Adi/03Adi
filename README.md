@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://octodex.github.com/images/NUX_Octodex.gif?user=03Adi&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=03adi&theme=dark" alt="GitHub Streak" /></a>
