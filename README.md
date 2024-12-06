@@ -1,5 +1,5 @@
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(3).png)
-<h1> Hi Dev's </h1> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony
 <h3 align="center">A Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
 <img align="right" alt="Coding" width="390" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
 
