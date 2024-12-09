@@ -3,7 +3,6 @@
 <h3 align="center">Aditya this side a (Passionate - Software Developer) at OWY Technosys Pvt. Ltd.</h3>
 <img align="right" alt="Coding" width="390" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p> 
