@@ -40,8 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
 
 <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=03Adi" alt="GitHub Streak" />
-
-
-
-
-
