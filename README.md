@@ -39,6 +39,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en&theme=radical" alt="03adi" /></p>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=03adi&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=03adi&theme=highcontrast" 
+       alt="GitHub Streak" 
+       style="width: 80%; max-width: 400px; height: auto;" />
+</a>
+
 
 <img src="https://readme-jokes.vercel.app/api" alt="68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f6267436f6c6f723d2532333037336234632674657874436f6c6f723d2532333036643661302661436f6c6f723d25323330366436613026626f72646572436f6c6f723d253233303664366130" />
