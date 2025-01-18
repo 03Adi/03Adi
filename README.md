@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=03adi&show_icons=true&locale=en&layout=compact" alt="03adi" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=03adi&theme=highcontrast" alt="GitHub Streak" /></a>
 
