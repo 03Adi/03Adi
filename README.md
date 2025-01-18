@@ -1,4 +1,3 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(7).png) 
 <h3 align="center">Aditya this side a Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
 
