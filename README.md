@@ -42,7 +42,7 @@
 <a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=03adi&theme=highcontrast" 
        alt="GitHub Streak" 
-       style="width: 80%; max-width: 400px; height: auto;" />
+       style="width: 30%; max-width: 100px; height: 100px;" />
 </a>
 
 
