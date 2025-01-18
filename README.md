@@ -39,6 +39,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=03adi&show_icons=true&locale=en&layout=compact" alt="03adi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
 
-<img src="https://readme-jokes.vercel.app/api" alt="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" />
+<img  align="right" src="https://readme-jokes.vercel.app/api" alt="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" />
