@@ -1,5 +1,5 @@
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(8).png)
-<h3 align="center">Aditya this side a Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3> 
+<h3 align="center">Aditya this side a Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/securitocat.png"> 
    
