@@ -1,7 +1,7 @@
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(8).png)
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="Dec Badge" height="70">
-  <img src="" alt="Jan Badge" height="70">
+  <img src="https://github.com/03Adi/03Adi/blob/main/dec%202024.gif" alt="Jan Badge" height="70">
 </p>
 
 <h3 align="center">Aditya this side a Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
