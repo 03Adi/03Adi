@@ -1,6 +1,6 @@
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(8).png)
 <p align="center" >
-  <img src="" alt="Dec Badge" height="70">
+  <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="Dec Badge" height="70">
   <img src="" alt="Jan Badge" height="70">
 </p>
 
