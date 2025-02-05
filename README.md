@@ -8,7 +8,7 @@
 
 <h3 align="center">Aditya this side a Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/mummytocat.gif"> 
+<img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/stormtroopocat.png"> 
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
     
