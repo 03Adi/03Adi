@@ -9,7 +9,7 @@
   <img src="https://github.com/03Adi/03Adi/blob/main/jan%202025.gif" alt="jan Badge" height="70">
 </p>
 
-<h1 align="center">Hi Dev's 👋, Aditya this side a Passionate @SWE</h1>
+<h1 align="center">Hi Dev's 👋, Aditya this side a Passionate Software Engineer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/stormtroopocat.png"> 
    
