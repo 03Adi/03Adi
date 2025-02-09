@@ -1,4 +1,7 @@
-!<a href="https://github.com/03Adi/03Adi/blob/main/my-badges.png"><img  alt="My Badges"></a>
+<div align="center" >
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Header%20Image%202.png" alt="Coding" height="300">
+</div>
+
 
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="50 Days Badge" height="70">
