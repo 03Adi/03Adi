@@ -1,6 +1,5 @@
 <a href="https://github.com/03Adi/03Adi/blob/main/my-badges.png"><img  alt="My Badges"></a>
 
-
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="50 Days Badge" height="70">
   <img src="https://github.com/03Adi/03Adi/blob/main/dec%202024.gif" alt="Dec Badge" height="70">
