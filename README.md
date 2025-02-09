@@ -1,4 +1,5 @@
-![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(8).png)
+<a href="https://github.com/my-badges/my-badges"><img src=".github/my-badges.png" alt="My Badges"></a>
+
 
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="50 Days Badge" height="70">
