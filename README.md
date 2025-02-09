@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Header%20Image%202.png" alt="Coding" height="300">
+  <img src="https://github.com/03Adi/03Adi/blob/main/github-header-image%20(8).png" alt="Coding" height="300">
 </div>
 
 
