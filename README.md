@@ -9,7 +9,7 @@
   <img src="https://github.com/03Adi/03Adi/blob/main/jan%202025.gif" alt="jan Badge" height="70">
 </p>
 
-<h3 align="center">Aditya this side a Passionate Software Developer at OWY Technosys Pvt. Ltd.</h3>
+<h1 align="center">Hi Dev's 👋, I'm Aditya Prakash Pandey A Passionate Software Engineer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/stormtroopocat.png"> 
    
