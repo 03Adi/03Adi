@@ -1,4 +1,4 @@
-<a href="https://github.com/my-badges/my-badges"><img src=".github/my-badges.png" alt="My Badges"></a>
+<a href="https://github.com/03Adi/03Adi/blob/main/my-badges.png"><img src=".github/my-badges.pn" alt="My Badges"></a>
 
 
 <p align="center" >
