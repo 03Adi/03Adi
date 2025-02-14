@@ -12,10 +12,12 @@
 <h1 align="center">Hi Dev's 👋, Aditya this side a Passionate Software Engineer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/06f21a161921919.63cd7887d0a70.gif"> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
 <p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p>   
 
