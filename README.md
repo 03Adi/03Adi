@@ -31,6 +31,8 @@
 
 - 📄 Updated Resume -- [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityaprak74416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaprak74416" height="30" width="40" /></a>
