@@ -5,8 +5,8 @@
 
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="50 Days Badge" height="70">
+  <img src="https://github.com/03Adi/03Adi/blob/main/2550.gif" alt="2025 50 Days Badge" height="70">
   <img src="https://github.com/03Adi/03Adi/blob/main/dec%202024.gif" alt="Dec Badge" height="70">
-  <img src="https://github.com/03Adi/03Adi/blob/main/jan%202025.gif" alt="jan Badge" height="70">
   <img src="https://github.com/03Adi/03Adi/blob/main/jan%202025.gif" alt="jan Badge" height="70">
 </p>
 
