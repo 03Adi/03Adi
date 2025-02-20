@@ -25,8 +25,6 @@
 
 - 🌱 I’m currently learning -- **PHP , JavaScript , Shopify , Ngrok**
 
-- 👨‍💻 All of my projects are available at -- [https://03adi.github.io/Personal-Portfolio/](https://03adi.github.io/Personal-Portfolio/)
-
 - 📝 I regularly write articles on -- [https://linktr.ee/03aditya](https://linktr.ee/03aditya)
 
 - 💬 Ask me about -- **JAVA Development, PHP Development**
