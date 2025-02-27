@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/03Adi/03Adi/blob/main/my-badges.png" alt="Coding" height="300">
+  <img src="" alt="Coding" height="300">
 </div>
 
 
