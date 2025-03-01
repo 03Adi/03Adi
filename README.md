@@ -28,7 +28,7 @@
 
 - 📫 How to reach me -- **adityapandey03012003@gmail.com**
 
-- 📝 I regularly updates on -- [https://linktr.ee/03aditya](https://linktr.ee/03aditya)
+- 📝 Connect with me on -- [https://linktr.ee/03aditya](https://linktr.ee/03aditya)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
