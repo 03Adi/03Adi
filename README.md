@@ -11,7 +11,7 @@
   <img src="https://github.com/03Adi/03Adi/blob/main/202502.gif" alt="feb Badge" height="70">
 </p>
 
-<h1 align="center">Hi Dev's 👋, Aditya this side ' A Passionate Software Engineer</h1>
+<h1 align="center">Hi Dev's 👋, Aditya this side 'A' Passionate Software Engineer</h1>
 <!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg"> -->
 
 
