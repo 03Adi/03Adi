@@ -24,13 +24,11 @@
 
 - 🌱 I’m currently learning -- **PHP , JavaScript , Shopify , Ngrok**
 
-- 📝 I regularly write articles on -- [https://linktr.ee/03aditya](https://linktr.ee/03aditya)
-
 - 💬 Ask me about -- **JAVA Development, PHP Development**
 
 - 📫 How to reach me -- **adityapandey03012003@gmail.com**
 
-- 📄 Updated Resume -- [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view)
+- 📝 I regularly updates on -- [https://linktr.ee/03aditya](https://linktr.ee/03aditya)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
