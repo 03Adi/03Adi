@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Hi Dev's 👋, Aditya this side a Passionate Software Engineer</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/03Adi/03Adi/blob/main/333688569-06c4b204-629f-4b72-9365-12ad1cc647ad.png">
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/daftpunktocat-guy.gif"> 
