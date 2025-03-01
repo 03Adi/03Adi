@@ -13,7 +13,7 @@
 <!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg"> -->
 
 
-<img align="right" alt="Coding" width="350" src="https://github.com/03Adi/03Adi/blob/main/sinchan-hello.gif"> 
+<img align="right" alt="Coding" width="350" src="https://github.com/03Adi/03Adi/blob/main/penguin-hello.gif"> 
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
 
