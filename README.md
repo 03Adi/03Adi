@@ -13,7 +13,7 @@
 <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg">
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/daftpunktocat-guy.gif"> 
+<img align="right" alt="Coding" width="400" src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg"> 
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
 
