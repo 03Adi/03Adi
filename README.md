@@ -62,8 +62,9 @@
 
 <p align="center">Made with ❤️ Adi</p>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px" style="margin-right: 20px;">
-    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px" style="margin-right: 20px;">
-    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
+<div style="display: flex; width: 100%; position: relative;">
+    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px" style="position: absolute; left: 0;">
+    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px" style="margin: 0 auto;">
+    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px" style="position: absolute; right: 0;">
 </div>
+
