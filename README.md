@@ -57,7 +57,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en&theme=radical" alt="03adi" style="height:167px" /></p>
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=03adi&theme=highcontrast" alt="GitHub Streak" /></a>
-<p align="left"><a href="https://github.com/sponsors/Hunterdii">
+<p align="Right"><a href="https://github.com/sponsors/Hunterdii">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
