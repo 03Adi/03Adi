@@ -62,7 +62,9 @@
 
 <p align="center">Made with ❤️ in India</p>
 
-<img styel="align-items: center;" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
+<div styele="align: center;">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
+</div>
 
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
 
