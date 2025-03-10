@@ -63,11 +63,11 @@
 <p align="center">Made with ❤️ Adi</p>
 
 <p align='left'>
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="80px" height="500px">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="80px" height="50px">
 </p></a>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="80px" height="500px">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="80px" height="50px">
 </p></a>
 
 <p align='right'>
