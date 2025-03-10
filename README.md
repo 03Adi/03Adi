@@ -62,10 +62,11 @@
 
 <p align="center">Made with ❤️ in India</p>
 
-<div styele="align: center;">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
-</div>
-
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
 
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
+
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
+
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px" 
+     style="display: block; margin: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
