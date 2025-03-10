@@ -17,8 +17,7 @@
 
 <img align="right" alt="Coding" width="340" height="300" src="https://github.com/03Adi/03Adi/blob/main/penguin-hello.gif"> 
 
-    
-<p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p>   
+  
 
 - 🔭 I’m currently working on -- **Shopify**
 
