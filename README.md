@@ -2,7 +2,7 @@
   <img src="https://github.com/03Adi/03Adi/blob/main/54b6c068097599.5b50bca476b9b.gif" alt="Coding" height="150" width="1000">
   <br><br>
 </div>
-
+ 
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="50 Days Badge" height="70">
   <img src="https://github.com/03Adi/03Adi/blob/main/2550.gif" alt="2025 50 Days Badge" height="70">
