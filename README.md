@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">Hi Dev's 👋, Aditya this side 'A' Passionate Software Engineer</h1>
-<img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg">
+<!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg">s -->
 
 
 <img align="right" alt="Coding" width="340" height="300" src="https://github.com/03Adi/03Adi/blob/main/giphy.gif"> 
