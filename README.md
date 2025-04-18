@@ -17,7 +17,7 @@
 <!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg">s -->
 
 
-<img align="right" alt="Coding" width="340" height="300" src=""> 
+<img align="right" alt="Coding" width="340" height="300" src="https://github.com/03Adi/03Adi/blob/main/giphy%20(1).gif"> 
 <!-- <img align="right" alt="Coding" width="340" height="300" src="https://github.com/03Adi/03Adi/blob/main/giphy.gif">  -->
   
 <img src="https://count.getloli.com/@03Adi?name=03Adi&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
