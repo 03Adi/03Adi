@@ -13,7 +13,6 @@
   <img src="https://github.com/03Adi/03Adi/blob/main/202502.gif" alt="feb Badge" height="70">
   <img src="https://github.com/03Adi/03Adi/blob/main/202503.gif" alt="March Badge" height="70">
   <img src="https://github.com/03Adi/03Adi/blob/main/202504.gif" alt="April Badge" height="70">
-<!--   https://github.com/03Adi/03Adi/blob/main/202504.gif -->
 </p>
 
 <h1 align="center">Hi Dev's 👋, Aditya this side 'A' Passionate Software Engineer</h1>
