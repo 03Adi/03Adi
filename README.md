@@ -1,7 +1,7 @@
 <div align="center" >
 <!--   <img src="https://github.com/03Adi/03Adi/blob/main/54b6c068097599.5b50bca476b9b.gif" alt="Coding" height="150" width="1000"> -->
   <img src="https://github.com/03Adi/03Adi/blob/main/Knowledge_Is_Human_Homepage_Animated_Banner.gif" alt="Coding"  >
-  <br><br>     
+  <br><br>    
 </div>
    
 <p align="center" >
