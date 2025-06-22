@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">Hi Dev's 👋, Aditya this side 'A' Passionate Software Engineer</h1>
-<!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg">s -->
+<!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg"> -->
 
 
 <img align="right" alt="Coding" width="360" height="300" src="https://github.com/03Adi/03Adi/blob/main/giphy%20(1).gif"> 
@@ -59,8 +59,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=03adi&show_icons=true&locale=en&layout=compact&theme=radical" alt="03adi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en&theme=radical" alt="03adi" style="height:167px" /></p>
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=03adi&theme=highcontrast" alt="GitHub Streak" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
