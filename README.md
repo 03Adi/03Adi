@@ -3,7 +3,6 @@
   <br><br>  
 </div>    
              
-<!-- 
 <p align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/50%20days.gif" alt="50 Days Badge" height="50">
   <img src="https://github.com/03Adi/03Adi/blob/main/2550.gif" alt="2025 50 Days Badge" height="50">
@@ -15,7 +14,6 @@
   <img src="https://github.com/03Adi/03Adi/blob/main/202504.gif" alt="April Badge" height="50">
   <img src="https://github.com/03Adi/03Adi/blob/main/202506.gif" alt="June Badge" height="50">
 </p>
--->
 
 <h1 align="center">Hi Dev's 👋, Aditya this side 'A' Passionate Software Engineer</h1>
 <!-- <img src="https://github.com/03Adi/03Adi/blob/main/baracktocat.jpg"> -->
