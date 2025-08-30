@@ -1,6 +1,6 @@
 <div align="center" >
   <img src="https://github.com/03Adi/03Adi/blob/main/Knowledge_Is_Human_Homepage_Animated_Banner.gif" alt="Coding"  >
-  <br><br>     
+  <br><br>    
 </div>     
                 
 <p align="center" >
