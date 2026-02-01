@@ -26,7 +26,7 @@
   
 <img src="https://count.getloli.com/@03Adi?name=03Adi&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
-- 🔭 I’m currently working on -- **Shopify**
+- 🔭 I’m currently working on -- **React.JS, JavaScript**
 
 - 🌱 I’m currently learning -- **PHP , JavaScript , Shopify , Ngrok**
 
